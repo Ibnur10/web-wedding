@@ -51,7 +51,7 @@ const About = () => {
           Here you can share your love story. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
         </p>
         <div className="countdown mb-8">
-          <h3 className="text-2xl font-bold mb-4">Wedding Day Countdown</h3>
+          <h3 className="text-2xl font-bold mb-4" >Wedding Day Countdown</h3>
           {timerComponents.length ? (
             <div className="text-xl">
               {timerComponents}
